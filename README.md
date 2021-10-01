@@ -21,6 +21,9 @@ randomized controlled experiment.
 - Visualizations using bar graphs, histograms and box plot.
 - Finding relationships using correlation matrix and chi-square test.
 
+### Result: 
+The results and inferences are mentioned in the the Report.pdf file.
+
 ### Conclusion:
 - Performing “Exploratory Data analysis using R” on the resume dataset using libraries like
 dplyr(), tidyr(), ggplot2(), corrplot(), Hmisc(), PerformanceAnalytic() , various statistical and
